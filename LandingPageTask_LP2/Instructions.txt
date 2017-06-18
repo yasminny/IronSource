@@ -1,0 +1,10 @@
+Build responsive Landing Page based on the mockup.
+
+LP2:
+The page should support multiple products.
+
+1. Support change of download button color by using GET param "bcolor=<Hex color>"
+2. Support change of download button text by using GET param "btext=<text>"
+3. Support change of the page product by using GET param "prod=<product name>"
+	3.1. The text in the page should be dynamic based on the product name
+	3.2. The images in the page should be dynamic based on the product name

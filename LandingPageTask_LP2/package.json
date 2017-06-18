@@ -1,0 +1,7 @@
+{
+  "name": "Iron Source",
+  "version": "0.0.1",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
